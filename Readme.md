@@ -1,0 +1,1 @@
+Mini-projet consistant à construire une chaîne complète CI/CD via Jenkins d'une application web nginx
